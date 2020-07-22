@@ -1,5 +1,8 @@
 package gildedrose;
 
+/**
+ * @author cuijie
+ */
 public class Item {
 
     public String name;
